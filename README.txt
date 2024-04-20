@@ -6,4 +6,5 @@ handshake: Zach Nalepa
 language proficiencies include:
 Python, Java, C/C++/C#, SQL,
 ShellScript, Git, Godot/GDScript,
-assembly
+assembly, dart, Google Cloud, 
+Firebase
