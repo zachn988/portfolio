@@ -1,0 +1,3 @@
+[submodule "SportTrainer"]
+	path = SportTrainer
+	url = git@github.com:robcam1401/SportFitness2024.git
