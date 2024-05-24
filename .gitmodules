@@ -1,3 +1,6 @@
 [submodule "SportTrainer"]
 	path = SportTrainer
 	url = git@github.com:robcam1401/SportFitness2024.git
+[submodule "403 Godot Project"]
+	path = 403 Godot Project
+	url = git@github.com:LiterallyANoodle/Fall2020_CSC403_Project.git
