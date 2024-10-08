@@ -4,3 +4,6 @@
 [submodule "403 Godot Project"]
 	path = 403 Godot Project
 	url = git@github.com:LiterallyANoodle/Fall2020_CSC403_Project.git
+[submodule "Personal Website"]
+	path = Personal Website
+	url = git@github.com:zachn988/zachn988.github.io.git
