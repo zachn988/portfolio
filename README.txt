@@ -14,6 +14,10 @@ Sport Trainer: A social media app for sport and fitness enthusiasts to connect a
         Built in dart and flutter, using a Google Firebase backend with Firestore, Authenticator and Storage.
         In a 4-person team, my responsibilities included: Firebase backend, backend to frontend connection
 
+Interpreters: A way to show and practice practical coding skills by creating assembly interpreters in various languages
+        I am working with assembly op-codes based on the nintendo gameboy / z80 processor
+        Gameboy CPU manual: http://www.codeslinger.co.uk/pages/projects/gameboy/files/GB.pdf
+
 language proficiencies include:
 Python, Java, C/C++/C#, SQL,
 ShellScript, Git, Godot/GDScript,
