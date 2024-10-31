@@ -7,3 +7,6 @@
 [submodule "Personal Website"]
 	path = Personal Website
 	url = git@github.com:zachn988/zachn988.github.io.git
+[submodule "ASM Interpreters"]
+	path = ASM Interpreters
+	url = git@github.com:zachn988/interpreters.git
